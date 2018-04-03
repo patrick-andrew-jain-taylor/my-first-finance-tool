@@ -1,2 +1,2 @@
 # my-first-finance-tool
-TBD
+Will utilize the Alpha Vantage API: https://www.alphavantage.co/documentation/
